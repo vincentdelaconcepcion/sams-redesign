@@ -1,4 +1,2 @@
 # sams-redesign
-REDESIGNING SAMS PORTAL 
-
-live demo coming soon!
+A redesign concept for the Landing page for Asian College of Technology
